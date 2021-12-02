@@ -1,0 +1,155 @@
+body{
+   background-color: #ffffff
+   
+}
+.grey{
+    position: relative;
+    width: 1962px;
+    height: 781px;
+background-color: #f0f2f5;
+
+right: 50px;
+bottom: 60px;
+
+
+}
+.face{
+position: relative;
+left: 434px;
+bottom: 605px;
+
+
+}
+.kola{
+    font-size: 28px;
+position: relative;
+left: 450px;
+bottom: 600px;
+}
+.kola2{
+    font-size: 28px;
+position: relative;
+left: 450px;
+bottom: 600px;
+
+
+}
+.hel{
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+      font-size: 28px;
+      font-weight: normal;
+      line-height: 32px;
+      width: 500px;
+      position: relative;
+      bottom: 640px;
+  left: 462px;
+}
+.img2{
+  position: relative;
+  bottom: 262px;
+  left: 315px;
+
+}
+.page{
+  border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    padding-top: 0;
+    position: relative;
+    bottom: 669px;
+    right: 174px;
+
+}
+.page2{
+  border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+    position: relative;
+    bottom: 696px;
+    left: 1186px;
+
+
+
+}
+html,body{
+width: 100%;
+height: 100%;
+margin: 0px;
+padding: 0px;
+overflow-x: hidden;
+
+
+}
+a{
+text-decoration: none;
+}
+.rec{
+  position: relative;
+  bottom: 1109px;
+  left: 1035px;
+
+
+
+}
+.email {
+  position: relative;
+  bottom: 1452px;
+  left: 696px;
+  display: inline-block;
+  font-size: 17px;
+  margin: auto;
+  padding: 6px 0;
+  width: 360px;
+  height: 36px;
+  border-width:0px 0px;
+  color: #000000
+}
+.pass {
+  position: relative;
+  bottom: 1390px;
+  left: 1060px;
+  display: inline-block;
+  font-size: 17px;
+  margin: auto;
+  padding: 6px 0;
+  width: 360px;
+  height: 36px;
+border-width:0px 0px;
+color: #000000;
+}
+.log{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 363px;
+    position: relative;
+  bottom: 1322px;
+  right: -330px;
+}
+.logi{
+  font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  line-height: 48px;
+  position: relative;
+  color: #000000;
+  position: relative;
+  left: 1209px;
+   bottom: 1375px;
+}
+.logan{
+  position: relative;
+  bottom: 1318px;
+  left: 116px;
+
+
+
+
+}
